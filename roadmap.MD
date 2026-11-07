@@ -1,6 +1,3 @@
-AIzaSyCLpJJMj_Uh5IzjY44FQodCAtKeD7w6RVM
-
-
 You are an expert fullstack developer specializing in Next.js, TypeScript, and PostgreSQL. I have designed a comprehensive PostgreSQL database schema for a travel agency website, covering user management, tours, bookings, payments, reviews, and more. My goal is to implement this schema and integrate it into a Next.js application.
 
 Important Note on Tour Types: Our tours come in three distinct types: "One-Day Tour", "Multi-Day Tour", and "Date-Range Tour". The booking system will need to utilize specific, tailored forms for each of these tour types. This distinction should be considered when designing APIs and frontend components for tour management and booking.
